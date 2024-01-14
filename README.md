@@ -118,7 +118,7 @@ https://github.com/golioth/golioth-zephyr-sdk
 
    Let's take a closer look to the configurations:
 	 
-
+```
 	##### Generic networking options
 
 	CONFIG_NETWORKING=y
@@ -163,8 +163,8 @@ https://github.com/golioth/golioth-zephyr-sdk
 
 	CONFIG_GOLIOTH_SAMPLE_WIFI_SSID="<ssid>"
 	CONFIG_GOLIOTH_SAMPLE_WIFI_PSK="<psk>"
+```
 
-	   
 
 4. Let's build our project:
 
