@@ -16,7 +16,7 @@ This section is a tutorial on Golioth. I will demonstrate how to create a projec
 
   A project is needed in order to compartmentalize our devices and the projects that they are connected to.
 
-![image-1](/home/harrkout/Documents/ISCA/images/1.png)
+![image-1](./1.png)
 
 
 
@@ -24,7 +24,7 @@ This section is a tutorial on Golioth. I will demonstrate how to create a projec
 
   We can create a project by pressing "Create" on the top right. I can't create a new one, since Golioth allows only one project outside of commercial use.
 
-![image-2](/home/harrkout/Documents/ISCA/images/2.png)
+![image-2](./2.png)
 
 
 
@@ -34,11 +34,11 @@ This section is a tutorial on Golioth. I will demonstrate how to create a projec
 
   Here we can seethe Blueprint I created for the L475 board.
 
-![image-3](/home/harrkout/Documents/ISCA/images/3.png)
+![image-3](./3.png)
 
 - And here we can see a few of the plethora of devices.
 
-![image-4](/home/harrkout/Documents/ISCA/images/4.png)
+![image-4](./4.png)
 
 
 
@@ -46,7 +46,7 @@ This section is a tutorial on Golioth. I will demonstrate how to create a projec
 
   Here is the interface that shows the devices we have created.
 
-![image-5](/home/harrkout/Documents/ISCA/images/5.png)
+![image-5](./5.png)
 
 
 
@@ -62,12 +62,12 @@ This section is a tutorial on Golioth. I will demonstrate how to create a projec
 
   Here I will create my own Identity for the device and PSK:
 
-![image-6](/home/harrkout/Documents/ISCA/images/6.png)
+![image-6](./6.png)
 
 
 - After the creation of the device we receive the following window, containing our Credentials we created:
 
-![image-7](/home/harrkout/Documents/ISCA/images/7.png)
+![image-7](./7.png)
 
 
 - If we choose to redirect to "Device Management" we will be greeted with the following information:
@@ -79,7 +79,7 @@ This section is a tutorial on Golioth. I will demonstrate how to create a projec
   - LightDB Database State and Stream and
   - the Logs of any running program.
 
-![image-8](/home/harrkout/Documents/ISCA/images/8.png)
+![image-8](./8.png)
 
 
 
@@ -300,7 +300,7 @@ https://github.com/golioth/golioth-zephyr-sdk
 
 7. Now let's see the Logs on the Golioth Dashboard:
 
-![image-9](/home/harrkout/Documents/ISCA/images/9.png)
+![image-9](./9.png)
 
    Everything seems to work perfectly.
 
@@ -630,7 +630,7 @@ https://github.com/golioth/golioth-zephyr-sdk
 
 12. Here we can see the version 1.5.1 we created was uploaded on Golioth:
 
-![image-10](/home/harrkout/Documents/ISCA/images/10.png)
+![image-10](./10.png)
 
     
 
@@ -638,7 +638,7 @@ https://github.com/golioth/golioth-zephyr-sdk
 
     If I enable the Rollout, let's see what happens:
 
-![image-11](/home/harrkout/Documents/ISCA/images/11.png)
+![image-11](./11.png)
 
     
 
