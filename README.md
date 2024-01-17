@@ -1,4 +1,4 @@
-# <center>Getting Started with Golioth and FOTA on ST Boards</center>
+# <center> Golioth Over-the-Air Updates on STM32 B-L475E-IOT01A</center>
 
 ####  <center>Can be visited here*: https://golioth.io/</center>
 
